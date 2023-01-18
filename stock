@@ -7,7 +7,7 @@
     { country: '南韓', indexPoint: "2839", Remark: '綜合' },
     { country: '倫敦', indexPoint: "7059", Remark: '指數' },
     { country: '中國', indexPoint: "3564", Remark: '上海指數' },
-    { country: '中國', indexPoint: "23475", Remark: '香港恆生' }
+    { country: '中國', indexPoint: "23475", Remark: '香港恆生' },
 
 
     { country: '台灣', indexPoint: "14880", Remark: '加權' },
