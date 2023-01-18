@@ -1,0 +1,21 @@
+[
+
+    { country: '台灣', indexPoint: "17428", Remark: '加權' },
+    { country: '美國', indexPoint: "15538", Remark: '那斯達克' },
+    { country: '美國', indexPoint: "34484", Remark: '道瓊工業' },
+    { country: '日本', indexPoint: "27822", Remark: '日經' },
+    { country: '南韓', indexPoint: "2839", Remark: '綜合' },
+    { country: '倫敦', indexPoint: "7059", Remark: '指數' },
+    { country: '中國', indexPoint: "3564", Remark: '上海指數' },
+    { country: '中國', indexPoint: "23475", Remark: '香港恆生' },
+    { country: '台灣', indexPoint: "14880", Remark: '加權' },
+    { country: '美國', indexPoint: "11468", Remark: '那斯達克' },
+    { country: '美國', indexPoint: "34590", Remark: '道瓊工業' },
+    { country: '日本', indexPoint: "27969", Remark: '日經' },
+    { country: '南韓', indexPoint: "2473", Remark: '綜合' },
+    { country: '倫敦', indexPoint: "7573", Remark: '指數' },
+    { country: '中國', indexPoint: "3151", Remark: '上海指數' },
+    { country: '中國', indexPoint: "18597", Remark: '香港恆生' }
+
+
+]
