@@ -1,0 +1,10 @@
+[
+        {countryCity:'Shanghai', lat:121.4683, lon:31.2287},
+        {countryCity:'taipei', lat:121.5598, lon:25.09108},
+        {countryCity:'newyork', lat:-73.9385, lon: 40.6643},
+        {countryCity:'tokoyo', lat:139.69181, lon: 35.689381},
+        {countryCity:'seoul', lat:126.58, lon: 37.34},
+        {countryCity:'seoul', lat:103.38, lon: 1.09},
+        {countryCity:'hongkong', lat:114.1743, lon: 22.3020},
+        {countryCity:'London', lat:51.3026, lon: 0.0739}
+        ]
