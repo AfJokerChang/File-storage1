@@ -1,4 +1,4 @@
-let cuntryLaton =[
+[
         {countryCity:'Shanghai', lat:121.4683, lon:31.2287},
         {countryCity:'taipei', lat:121.5598, lon:25.09108},
         {countryCity:'newyork', lat:-73.9385, lon: 40.6643},
